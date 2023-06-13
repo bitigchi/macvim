@@ -5,13 +5,13 @@
 "255.title" = "Güncellemeleri Denetle…";
 
 /* Class = "NSMenuItem"; title = "Hide MacVim"; ObjectID = "134"; */
-"134.title" = "MacVim'i gizle";
+"134.title" = "MacVim'i Gizle";
 
 /* Class = "NSMenuItem"; title = "Quit MacVim"; ObjectID = "136"; */
 "136.title" = "MacVim'den Çık";
 
 /* Class = "NSMenuItem"; title = "MacVim Website"; ObjectID = "234"; */
-"234.title" = "MacVim web sitesi";
+"234.title" = "MacVim Web Sitesi";
 
 /* Class = "NSMenuItem"; title = "MacVim Help"; ObjectID = "275"; */
 "275.title" = "MacVim Yardım";
